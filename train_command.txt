@@ -1,0 +1,4 @@
+python "model_main.py at tensorflow/research/models/object_detection" \
+    --pipeline_config_path=".\pipeline.cfg" \
+    --model_dir=".\model" \
+    --alsologtostderr
