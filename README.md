@@ -1,6 +1,6 @@
 
 # Where is Waldo ? 
-### COVID-19 Project No. #2
+### COVID-19 Project #2
 
 A project inspired by [this article](https://towardsdatascience.com/how-to-find-wally-neural-network-eddbb20b0b90)
 
