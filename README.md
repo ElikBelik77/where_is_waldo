@@ -6,7 +6,7 @@ A project inspired by [this article](https://towardsdatascience.com/how-to-find-
 
 
 ## Description
-Ever wanted to find waldo quickly ? this project finds waldo in images, using a pretrained and fine-tuned [faster rcnn with inception v2](https://supervise.ly/explore/models/faster-r-cnn-inception-v-2-coco-1864/overview)
+Ever wanted to find waldo quickly? this project finds waldo in images, using a pretrained and fine-tuned [faster rcnn with inception v2](https://supervise.ly/explore/models/faster-r-cnn-inception-v-2-coco-1864/overview)
 
 
 ## Replicate
